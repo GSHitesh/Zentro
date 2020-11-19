@@ -1,2 +1,0 @@
-# Zentro
-The Restaurant Website
